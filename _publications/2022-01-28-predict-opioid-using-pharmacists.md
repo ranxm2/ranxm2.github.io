@@ -1,7 +1,7 @@
 ---
 title: "Predict Opioid-using Pharmacists from the Prescribing Practices Based on SVM Classification Model"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-01-28-predict-opioid-using-pharmacists/
 excerpt: 'A support vector machine model achieves 85% accuracy in predicting pharmacists’ propensity to prescribe opioids using CMS prescribing data.'
 date: 2022-01-28
