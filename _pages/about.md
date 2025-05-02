@@ -15,7 +15,7 @@ My research interests include:
 - **Machine learning for biomarker discovery**  
 - **Pathway and network modeling in neurological disorders**
 
-I’m fortuned to be advised by [Dr. Zhaohui (Steve) Qin](https://sph.emory.edu/faculty/profile/index.php?FID=zhaohui%20%20steve%20-qin-8697) pf Emory University.  
+I am honored to be advised by [Dr. Zhaohui (Steve) Qin](https://sph.emory.edu/faculty/profile/index.php?FID=zhaohui%20%20steve%20-qin-8697) at Emory University.  
 I earned my MSPH in Biostatistics from Emory University in May 2024.
 
 
