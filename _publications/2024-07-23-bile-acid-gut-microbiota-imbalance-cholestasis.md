@@ -7,7 +7,7 @@ excerpt: 'This study demonstrates that temporary hepatic cholestasis in mice ind
 date: 2024-07-23
 venue: 'mSystems'
 paperurl: 'https://doi.org/10.1128/msystems.00127-24'
-bibtexurl: 'https://journals.asm.org/action/downloadCitation?doi=10.1128/msystems.00127-24&format=bibtex'
+# bibtexurl: 'https://journals.asm.org/action/downloadCitation?doi=10.1128/msystems.00127-24&format=bibtex'
 citation: 'Yang X., Xu Y., Li J., **Ran X.**, Gu Z., Song L., Zhang L., Wen L., Ji G., & Wang R. (2024). “Bile acid–gut microbiota imbalance in cholestasis and its long-term effect in mice.” <i>mSystems</i>, 9(7):e00127-24.'
 ---
 
