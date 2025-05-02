@@ -22,5 +22,5 @@ I earned my MSPH in Biostatistics from Emory University in May 2024.
 ---
 
 📫 [Email](mailto:ximing.ran@emory.edu)  
-💻 [GitHub](https://github.com/ranxm2) 
-🔬 [ORCID](https://orcid.org/0009-0004-5414-1885)
+💻 [GitHub](https://github.com/ranxm2)   
+🔬 [ORCID](https://orcid.org/0009-0004-5414-1885)  
