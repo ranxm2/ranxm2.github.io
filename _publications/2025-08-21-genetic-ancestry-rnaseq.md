@@ -6,7 +6,7 @@ permalink: /publication/2025-08-21-genetic-ancestry-rnaseq/
 excerpt: 'A computational pipeline using tumor RNASeq data accurately estimates global genetic ancestry in the absence of germline DNA.'
 date: 2025-08-21
 venue: 'Cancer Epidemiology, Biomarkers & Prevention'
-paperurl: '[https://pubmed.ncbi.nlm.nih.gov/40622249/](https://pubmed.ncbi.nlm.nih.gov/40622249/)'
+paperurl: '[https://pmc.ncbi.nlm.nih.gov/articles/PMC12340684/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12340684/)'
 # bibtexurl: '[https://pubmed.ncbi.nlm.nih.gov/40622249.bib](https://pubmed.ncbi.nlm.nih.gov/40622249.bib)'
 citation: 'Johnson C.E., **Ran X.**, Wrobel J., Davidson N.R., Greene C.S., Epstein M.P., Marks J.R., Peres L.C., Doherty J.A., & Schildkraut J.M. (2025). "An Analytic Pipeline to Obtain Reliable Genetic Ancestry Estimates from Tumor-Derived RNA Sequencing Data." <i>Cancer Epidemiology, Biomarkers & Prevention</i>. PMID:40622249'
 ---
