@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Bioinformatics Analyst in the ENCORE Group at the Department of Biostatistics & Bioinformatics, Rollins School of Public Health, Emory University. I’ve recently been admitted to the Computer Science PhD program at Emory’s College of Engineering for Fall 2025, where I will continue my work at the intersection of statistics, genomics, and machine learning.
+I’m a CSI PhD student at Emory University. Researching at the intersection of statistics, genomics, and machine learning.
 
 My research interests include:
 - **Spatial & single-cell transcriptomics**  
